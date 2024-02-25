@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@blog-portfolio/contract": ["contract/src/index.ts"]
+      "@blog-portfolio/contract": ["apps/contract/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
